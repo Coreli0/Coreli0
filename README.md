@@ -1,2 +1,2 @@
 # Scorbunny
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scorbunny10&show_icons=true&count_private=true&theme=dark)](https://github.com/YOUR_USERNAME)
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scorbunny10&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/YOUR_USERNAME)
