@@ -1,8 +1,9 @@
+Niedługo zmienie
+
 <h1>Hi, I'm Corelio <img src="https://komarev.com/ghpvc/?username=Coreli0&label=Profile%20views&color=7d63ff&style=for-the-badge" alt="Coreli0"/></h1>
 <ul>
 <li> 🔰 I'm domain owner of https://midway.ovh</li>
 <li> 📕 I’m currently learning JavaScript and C# <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="30" alt="csharp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<li> 📫 How to reach me <a href="mailto:coreliomw@proton.me">coreliomw@proton.me</a></li>
 </ul>
 
 ### Languages
