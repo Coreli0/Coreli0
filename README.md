@@ -18,10 +18,8 @@ Niedługo zmienie
 <div display="flex" justify-content="space-between" align="center">
   <a href="https://u8views.com/github/Coreli0"><img src="https://u8views.com/api/v1/github/profiles/100584937/views/day-week-month-total-count.svg"></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Coreli0&theme=onestar&row=1&column=7" alt="trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Coreli0&theme=onestar&row=2&column=2" alt="trophy"/>
   </a>
-    <img src="https://streak-stats.demolab.com?user=Coreli0&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=6&order=3" height="150" alt="streak graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Coreli0&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"/>
     <a href="https://github.com/Corerli0">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coreli0&theme=github_dark" alt="Coreli0 GitHub stats"/>
     </a>
