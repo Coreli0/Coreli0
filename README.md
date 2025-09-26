@@ -15,8 +15,8 @@ Niedługo zmienie
 
 ### Additional stats
 <hr>
+<a href="https://u8views.com/github/Coreli0"><img src="https://u8views.com/api/v1/github/profiles/100584937/views/day-week-month-total-count.svg"></a>
 <div display="flex" justify-content="space-between" align="center">
-  <a href="https://u8views.com/github/Coreli0"><img src="https://u8views.com/api/v1/github/profiles/100584937/views/day-week-month-total-count.svg"></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Coreli0&theme=onestar&row=2&column=2" alt="trophy"/>
   </a>
