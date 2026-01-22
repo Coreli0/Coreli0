@@ -2,7 +2,7 @@ Niedługo zmienie
 
 <h1>Hi, I'm Corelio <img src="https://komarev.com/ghpvc/?username=Coreli0&label=Profile%20views&color=7d63ff&style=for-the-badge" alt="Coreli0"/></h1>
 <ul>
-<li> 🔰 My website https://corelio.dev/ (In build)</li>
+<li> 🔰 My website https://corelio.dev/</li>
 </ul>
 
 
